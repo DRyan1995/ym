@@ -1,0 +1,5 @@
+site_name: "背着梦想流浪的羊们"
+pages:
+    - Index: index.md
+    - README: readme.md
+theme: cyborg
